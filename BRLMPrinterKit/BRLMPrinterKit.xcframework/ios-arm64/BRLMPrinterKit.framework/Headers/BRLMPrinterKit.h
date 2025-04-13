@@ -34,6 +34,9 @@
 #import <BRLMPrinterKit/BRLMRJTemplatePrintSettings.h>
 #import <BRLMPrinterKit/BRLMTDTemplatePrintSettings.h>
 #import <BRLMPrinterKit/BRLMPrinterClassifier.h>
+#import <BRLMPrinterKit/BRLMPrinterConfig.h>
+#import <BRLMPrinterKit/BRLMPrinterConfigEnums.h>
 
 #import <BRLMPrinterKit/BRLMCustomPaperSize.h>
 #import <BRLMPrinterKit/BRLMValidatePrintSettings.h>
+#import <BRLMPrinterKit/BRLMFileAnalyzer.h>
